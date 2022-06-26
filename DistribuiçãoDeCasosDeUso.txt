@@ -1,0 +1,32 @@
+Considerações:
+
+	- Todos os ficheiros que são necessários serem entregues utilizando a aplicação Visual Paradigm encontram-se feitos no mesmo documento "AutoSell.vpp" (Lista de Requisitos, Modelo de Domínio, Diagrama de Casos de uso, Diagrama de Classes final, Texto de cada Caso de Uso e Diagrama de Sequencia). Para aceder ir a "View", "Project Browser".
+
+	- O elemento Joel Matos, 2191260 ficou com os casos de uso:
+
+		-> Consultar Lista de Veículos
+
+		-> Consultar Lista de Peças
+
+		-> Efetuar Transação - Compra
+
+		-> Efetuar Transação - Venda
+
+		-> Requisitar Peça
+
+		-> Registar Evento
+
+
+	- O elemento Ivo Ribeiro, 2182220 ficou com os casos de uso:
+
+		-> Consultar Lista de Estatísticas
+
+		-> Consultar Transações De Um Cliente
+
+		-> Consultar Histórico de Transações 
+	
+		-> Consultar Lista de Eventos
+
+		-> Efetuar Transação - Troca
+
+		-> Adicionar Peça
